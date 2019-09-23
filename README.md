@@ -1,5 +1,5 @@
 # solid-waste-management-using-LSTM
-This project was intended to forecast the bin volume for next 7 days based on history pattern observed and also provided an optimized collection collection process to save resources and get the optimal value.
+This project was intended to forecast the bin volume for next 7 days based on history pattern observed and also provided an optimized collection process to save resources and get the optimal value.
 
 The Objective:
   1. History Data Generation.
