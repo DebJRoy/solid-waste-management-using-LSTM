@@ -10,7 +10,7 @@ The Objective:
   6. Route Optimisation.
   
 ### History Data Generation
-An history dataset has been generated using real life scenarios to train the model and identify the pattern while forecasting.
+A history dataset has been generated using real life scenarios to train the model and identify the pattern while forecasting.
 
 ### Real Time Data Generation
 A similar script as above has been used to generate data on a daily basis using schedulers to automaticaly generate everyday data and store it in their respective db's.
